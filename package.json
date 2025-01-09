@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "openai": "^4.72.0"
+  },
+  "name": "james.berlin",
+  "version": "1.0.0",
+  "description": "This is the data selfie app",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "example",
+    "data",
+    "selfie"
+  ],
+  "author": "James B",
+  "license": "ISC"
+}
